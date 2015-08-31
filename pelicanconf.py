@@ -23,21 +23,35 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('You can modify those links in your config file', '#'),)
+#LINKS = (('Pelican', 'http://getpelican.com/'),
+#         ('Python.org', 'http://python.org/'),
+#         ('Jinja2', 'http://jinja.pocoo.org/'),
+#         ('You can modify those links in your config file', '#'),)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+#SOCIAL = (('You can add links in your config file', '#'),
+#          ('Another social link', '#'),)
+
+DIRECT_TEMPLATES = ['index', 'archives']
 
 STATIC_PATHS = ['images', 'static']
+
+ARTICLE_URL = 'blog/{date:%Y}/{date:%m}/{date:%d}/{slug}/'
+ARTICLE_SAVE_AS = 'blog/{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
 
 PLUGIN_PATHS = ['plugins']
 PLUGINS = ['liquid_tags.img', 'liquid_tags.video',
            'liquid_tags.youtube', 'liquid_tags.vimeo',
            'liquid_tags.include_code', 'image_process']
+
+#FILENAME_METADATA = '(?P<date>\d{4}-\d{2}-\d{2})-(?P<slug>.*)'
+#SLUGIFY_SOURCE = 'basename'
+
+MENUITEMS = [
+                ("Archives", "archives.html"),
+            ]
+
+YEAR_ARCHIVE_SAVE_AS = 'blog/{date:%Y}/index.html'
 
 IMAGE_PROCESS = {
     'crisp': {'type': 'responsive-image',
@@ -51,6 +65,10 @@ IMAGE_PROCESS = {
 
 DEFAULT_CATEGORY = "Blog"
 DEFAULT_PAGINATION = 20
+
+#GITHUB_URL = "https://github.com/Moredread"
+TWITTER_USERNAME = "IndustrialRobot"
+DISQUS_SITENAME = "andre-bubel"
 
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
