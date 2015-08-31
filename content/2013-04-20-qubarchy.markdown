@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Game Announcement: Qubarchy'
+title: Game Announcement: Qubarchy
 date: 2013-04-20 15:30:00
 comments: true
 tags: english, games, programming, python
@@ -10,3 +10,4 @@ Two weeks ago [Eduard](http://www.aepsil0n.de) and I began to work on a open
 source real time strategy and exploration game named
 [qubarchy](http://qubarchy.aepsil0n.de/). I hope we get out a public version
 soon. :)
+

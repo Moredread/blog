@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to re-add the Twitter sidebar in Octopress"
+title: How to re-add the Twitter sidebar in Octopress
 date: 2013-09-08 00:27
 comments: true
 tags: octopress, english, howto

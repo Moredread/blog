@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Posts are now signed"
+title: Posts are now signed
 date: 2014-02-28 23:15:00
 comments: true
 tags: english, crypto
