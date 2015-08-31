@@ -1,0 +1,15 @@
+---
+layout: post
+title: Links for 2015-01-06
+date: 2015-01-06 11:00:00
+comments: true
+tags: english, links, deutsch
+---
+
+- [There is a culture of acceptance around mental health issues in academia ](http://www.theguardian.com/higher-education-network/blog/2014/mar/01/mental-health-issue-phd-research-university)
+- [Howto extract a git subdirectory and make a submodule out of it?](http://stackoverflow.com/questions/920165/howto-extract-a-git-subdirectory-and-make-a-submodule-out-of-it)
+- [Another rant about academia and open source](http://digifesto.com/2012/02/28/another-rant-about-academia-and-open-source/)
+- [Cryptic genetic variation in software: hunting a buffered 41 year old bug](http://cryptogenomicon.wordpress.com/2014/10/13/cryptic-genetic-variation-in-software-hunting-a-buffered-41-year-old-bug/)
+
+- [Ein Text aus purem Gold](http://www.tomhillenbrand.de/2014/10/07/literarischesgold/)
+- [Wir Lieben Überwachung](https://www.youtube.com/watch?v=qGvZveB1osw)

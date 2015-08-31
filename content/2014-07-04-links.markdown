@@ -1,0 +1,16 @@
+---
+layout: post
+title: Links for 2014-07-04
+date: 2014-07-04 17:00:00
+comments: true
+tags: english, links
+---
+ * [When Aaron Swartz Spoofed His MAC Address, It Proved He Was A Criminal; When Apple Does It, It's Good For Everyone](https://www.techdirt.com/articles/20140616/06521227593/when-aaron-swartz-spoofed-his-mac-address-it-proved-he-was-criminal-when-apple-does-it-its-good-everyone.shtml)
+ * [Literally worse than EA](http://notch.net/2014/06/literally-worse-than-ea/)
+ * [How to Break the Internet: Cory Doctorow at TEDxOxbridge](https://www.youtube.com/watch?v=aAWCN0Jed8g)
+ * [Akademien geben Empfehlungen für Wissenschaftskommunikation](http://www.scilogs.de/relativ-einfach/akademien-geben-empfehlungen-fuer-wissenschaftskommunikation/)
+ * [A bit of advertising - Vice CEO Shane Smith: Running A Company Is 'Like Going To War' Every Day](http://www.businessinsider.com/vice-ceo-says-how-running-a-company-is-like-war-2014-6#ixzz35oxFPl6i)
+ * [The emperor’s new clothes were built with Node.js](notes.ericjiang.com/posts/751)
+ * [The USA is Lesterland](http://lesterland.lessig.org/)
+ * [In Samantha's words: "Why I resigned my role at OWASP" ](http://blog.diniscruz.com/2014/06/in-samanthas-words-why-i-resigned-my.html)
+

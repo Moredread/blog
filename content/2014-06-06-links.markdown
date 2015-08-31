@@ -1,0 +1,21 @@
+---
+layout: post
+title: Links for 2014-06-06
+date: 2014-06-06 20:00:00
+comments: true
+categories: english links
+---
+
+
+ * [How to create a restricted SSH user for port forwarding?](http://askubuntu.com/questions/48129/how-to-create-a-restricted-ssh-user-for-port-forwarding)
+ * [There is a culture of acceptance around mental health issues in academia](http://www.theguardian.com/higher-education-network/blog/2014/mar/01/mental-health-issue-phd-research-university) (via [WeiterGen](http://scienceblogs.de/weitergen/2014/04/die-leiden-der-jungen-wissenschaftler/))
+ * [XPrivacy, an Android privacy manager](https://github.com/M66B/XPrivacy)
+ * [Bruce Schneier on "Disclosing vs. Hoarding Vulnerabilities"](https://www.schneier.com/blog/archives/2014/05/disclosing_vs_h.html)
+ * [Jacob Appelbaum "The social pressure of conformity"](http://www.nachtkritik.de/index.php?option=com_content&view=article&id=9572:theater-der-welt-2014-jacob-appelbaums-opening-speech-&catid=53:portraet-a-profil&Itemid=83)
+ * [The Last Door, a lovecraftian horror point-and-click adventure game](https://thelastdoor.com/)
+
+They use an interesting financing model. Instead of paying for existing episodes, you "donate" for the development of the next one. All but the latest episodes are free and if you donate you get instant access to the latest one.
+
+ * [My No-Soap, No-Shampoo, Bacteria-Rich Hygiene Experiment](http://www.nytimes.com/2014/05/25/magazine/my-no-soap-no-shampoo-bacteria-rich-hygiene-experiment.html)
+
+Improving your dermal flora might make deodarants and soap unnecessary.

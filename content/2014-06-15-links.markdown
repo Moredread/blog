@@ -1,0 +1,18 @@
+---
+layout: post
+title: Links for 2014-06-15
+date: 2014-06-13 17:00:00
+comments: true
+tags: english, links
+---
+
+* [One Tap Quest](http://shimage.net/one-tap-quest/)
+* [Mozart's Turkish March - On a Computer Keyboard](https://www.youtube.com/watch?v=z410eauCnHc)
+* [Are hackers’ passwords stronger than regular passwords?](https://blog.avast.com/2014/06/09/are-hackers-passwords-stronger-than-regular-passwords/)
+* [The emperor’s new clothes were built with Node.js](http://notes.ericjiang.com/posts/751)
+* [Against YA - Read whatever you want. But you should feel embarrassed when what you’re reading was written for children](http://www.slate.com/articles/arts/books/2014/06/against_ya_adults_should_be_embarrassed_to_read_children_s_books.html)
+* [And a great retort by a YA author](http://www.nerve.com/books/a-young-adult-authors-fantastic-crusade-to-defend-literatures-most-maligned-genre)
+* [Why Students Aren’t Fighting Forever 21](http://www.newyorker.com/online/blogs/currency/2014/06/why-students-wont-fight-forever-21.html)
+* [Impoverished Mother Dies In Jail Cell Over Unpaid Fines For Her Kids Missing School](http://thinkprogress.org/economy/2014/06/12/3448105/mother-dies-jail-cell-fines/)
+* [Richard Feynman - The World from another point of view](https://www.youtube.com/watch?v=zgJPjG4KJYQ)
+

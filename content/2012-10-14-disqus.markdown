@@ -1,0 +1,12 @@
+---
+layout: post
+title: Disqus enabled
+date: 2012-10-14 22:30:00
+comments: true
+tags: english, blog
+---
+
+Although I despise external webservices (e.g. because of privacy and reliability
+problems) I'll activate octopress's [disqus][] feature for now.
+
+[disqus]: http://www.disqus.com "Disqus"

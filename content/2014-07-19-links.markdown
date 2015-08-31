@@ -1,0 +1,31 @@
+---
+layout: post
+title: Links for 2014-07-19
+date: 2014-07-19 19:00:00
+comments: true
+tags: english, links, deutsch
+---
+
+- [On the Phenomenon of Bullshit Jobs](http://strikemag.org/bullshit-jobs/)
+
+Very good explanation why we don't live in a post-industrial utopia, but productivity is wasted on uninteresting and unimportant jobs.
+
+- [Kickstarter: Potato Salad by Zack Danger Brown](https://www.kickstarter.com/projects/324283889/potato-salad)
+
+At the point of writing, people have pledged over 61000$. WTF? I guess publicity (and kickstarter success) is correlated more with being exotic than with quality. On the other hand it is a great comment on the crowdfunding culture. :p
+
+- [The Origin of the Nerd](http://www.eldacur.com/~brons/NerdCorner/nerd.html)
+- [On "Geek" Versus "Nerd"](https://slackprop.wordpress.com/2013/06/03/on-geek-versus-nerd/)
+
+I wouldn't have thought that there actually is a great difference. Interesting.
+
+- [Das Experiment (Kommentar zu der Stimmungsmanipulationsstudie von Facebook)](https://netzpolitik.org/2014/das-experiment-2)
+
+Ich werde dazu noch eventuell einen laengeren Beitrag schreiben.
+
+- [Youtube: Noam Chomsky (2014) "Surviving the 21st Century"](https://www.youtube.com/watch?v=9qzliIR3TU8])
+- [Die Zensur der Kalten Krieger](http://www.spiegel.de/einestages/verbotene-filme-geheime-zensur-im-dienst-der-bundesregierung-a-973414.html)
+- [Stop The JerkTech](http://techcrunch.com/2014/07/03/go-disrupt-yourself/)
+- [Theorizing the Web and SciPy conferences compared](http://digifesto.com/2014/07/08/theorizing-the-web-and-scipy-conferences-compared/)
+- [Wie man lernt, richtig beschissen zu flirten!](http://robinsurbanlifestories.wordpress.com/2014/07/10/wie-man-lernt-richtig-beschissen-zu-flirten/)
+- [How the slot lookup works for python dicts](http://hg.python.org/cpython/file/52f68c95e025/Objects/dictobject.c#l34)

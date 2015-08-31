@@ -1,0 +1,31 @@
+---
+layout: post
+title: Links for 2014-07-26
+date: 2014-07-26 17:00:00
+comments: true
+tags: english, links
+---
+
+- [Youtube: This Is Phil Fish](https://www.youtube.com/watch?v=PmTUW-owa2w)
+
+"A case study in internet celebrity."
+
+- [An article that shows a few problems with the previously linked](http://ordinary-gentlemen.com/blog/2014/06/17/why-dont-you-get-a-real-job) ["On the Phenomenon of Bullshit Jobs"](http://strikemag.org/bullshit-jobs/)
+
+
+But I think the general premise holds, and that the article itself is full of logic fallacies.
+
+E.g. the "Lump of labor fallacy" does not apply to necessary work, which supplies elementary necessities for living, e.g. water, food and accommodation, for which most people have to work nonetheless.
+
+Also there is no need for explicit coordination of a "ruling class". Acting on their own interest of people with financial and political means creates a "ruling class" by itself, and a filter that mainly allows people with similar ideas to raise to that position.
+
+- [The Problem With Music](http://www.negativland.com/news/?page_id=17)
+
+Disgusting practices in the music industry.
+
+- [The 1% of scientific publishing](http://news.sciencemag.org/scientific-community/2014/07/1-scientific-publishing)
+- [B-trees Are Overrated; Try Hashing Instead](http://nyeggen.com/blog/2014/06/07/b-trees-are-overrated-try-hashing-instead/)
+- [Think you've mastered the art of server performance? Think again. ](http://queue.acm.org/detail.cfm?id=1814327)
+- [HOW TO FIND A (REAL!) LITERARY AGENT](http://www.sfwa.org/real/)
+- [Youtube: Enron - The Smartest Guys In The Room (2005)](https://www.youtube.com/watch?v=gxzLX_C9Z74)
+

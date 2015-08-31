@@ -1,0 +1,15 @@
+---
+layout: post
+title: Links
+date: 2012-10-26 22:30:00
+comments: true
+tags: english, links
+---
+
+ * [CAP Twelve Years Later: How the 'Rules' Have Changed](http://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed)
+ * [I Was A Teenage Randroid](http://nsfwcorp.com/dispatch/atlas-flunked)
+ * [Evolution of a Python programmer.py](https://gist.github.com/289467)
+
+[cap]: http://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed "CAP Twelve Years Later: How the 'Rules' Have Changed"
+[rand]: http://nsfwcorp.com/dispatch/atlas-flunked "I Was A Teenage Randroid"
+[gist]: https://gist.github.com/289467 "Evolution of a Python programmer.py"
