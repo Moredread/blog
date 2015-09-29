@@ -1,0 +1,9 @@
+---
+layout: post
+title: Links for 2015-10-01
+date: 2015-10-01 11:00:00
+comments: true
+tags: english, links, deutsch
+---
+
+- [Selling Out and the Death of Hacker Culture](https://medium.com/@folz/selling-out-and-the-death-of-hacker-culture-fec1f101b138)
