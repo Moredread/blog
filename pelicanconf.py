@@ -55,7 +55,8 @@ ARTICLE_SAVE_AS = 'blog/{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
 PLUGIN_PATHS = ['plugins']
 PLUGINS = ['liquid_tags.img', 'liquid_tags.video',
            'liquid_tags.youtube', 'liquid_tags.vimeo',
-           'liquid_tags.include_code', 'image_process',
+           'liquid_tags.include_code',
+           #'image_process',
            'tag_cloud']
 
 TAG_CLOUD_STEPS = 4
