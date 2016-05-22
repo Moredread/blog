@@ -1,0 +1,24 @@
+---
+layout: post
+title: Links for 2016-06-01
+date: 2016-06-01 12:00:00
+comments: true
+tags: english, links, deutsch
+---
+
+- Useful console function for creating aliases: [An alias for new aliases](https://medium.com/the-lazy-developer/an-alias-for-new-aliases-c6500ae0f73e)
+- What does time travel mean for computational complexity? [PHYS771 Lecture 19: Time Travel](http://www.scottaaronson.com/democritus/lec19.html)
+- Sad that it has to be said, on the other hand: WTF are "Top Developers"? [Top developers can have a life outside coding](http://www.belenalbeza.com/top-developers-can-have-a-life-outside-coding/)
+- Light is slow: [Riding Light (Video)](https://www.instapaper.com/read/728279579)
+- Cool :) [Rogue Survivor goes open source! Twice!](http://roguesurvivor.blogspot.de/2016/05/rogue-survivor-goes-open-source-twice.html)
+- XD [Warum wir wieder lernen müssen, faul zu sein](http://www.vice.com/de/read/faul-sein-523)
+- Beautiful [ANNE RICE'S FILTHY DISGUSTING INEXCUSABLE PORNO BOOKS](http://www.fullyramblomatic.com/reviews/beauty.htm)
+- [Entrpreneurship Means I Give Up](https://morecrows.wordpress.com/2016/01/15/entrpreneurship-means-i-give-up/)
+- [Errol Morris: ‘Demon in the Freezer’](http://www.nytimes.com/2016/05/17/opinion/errol-morris-demon-in-the-freezer.html)
+- [Are the ‘gatekeepers’ becoming censors? On editorial processes and the interests of the scholarly community.](http://blogs.lse.ac.uk/impactofsocialsciences/2016/05/06/are-the-gatekeepers-becoming-censors/)
+- [Who Will Debunk The Debunkers?](http://fivethirtyeight.com/features/who-will-debunk-the-debunkers/)
+- [Does ’50 Shades of Grey’ Deserve its Criticism?](https://houseofgeekery.com/2012/12/27/does-50-shades-of-grey-deserve-the-criticism/)
+- [Apple did not invent emoji](https://eev.ee/blog/2016/04/12/apple-did-not-invent-emoji/)
+- [In the race to turn higher education into a market, we’re ignoring lessons from history](http://theconversation.com/in-the-race-to-turn-higher-education-into-a-market-were-ignoring-lessons-from-history-35792) (Also: [Marketised education system](http://theconversation.com/uk/topics/marketised-education-system))
+- :( [Story of Harassment](http://blogs.scientificamerican.com/context-and-variation/from-the-field-hazed-tells-her-story-of-harassment/) (Also [Survey of Academic Field Experiences (SAFE): Trainees Report Harassment and Assault](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0102172))
+- [Whose bug is this anyway?!?](http://www.codeofhonor.com/blog/whose-bug-is-this-anyway)
