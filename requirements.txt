@@ -1,0 +1,4 @@
+pelican
+markdown
+pillow
+bs4
