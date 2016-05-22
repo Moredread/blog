@@ -3,6 +3,7 @@ layout: post
 title: How to open a Asus N750JV laptop and change the hard disk
 date: 2013-09-21 18:08
 comments: true
+slug: how-to-change-hdd-of-asus-N750JV
 tags: english, notebook, howto
 ---
 

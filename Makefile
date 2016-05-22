@@ -13,9 +13,9 @@ FTP_USER=anonymous
 FTP_TARGET_DIR=/
 
 SSH_HOST=server
-SSH_PORT=22
+SSH_PORT=2342
 SSH_USER=abubel
-SSH_TARGET_DIR=/var/www/www/test
+SSH_TARGET_DIR=/srv/www/www
 
 S3_BUCKET=my_s3_bucket
 
