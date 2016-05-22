@@ -96,6 +96,8 @@ DEFAULT_PAGINATION = 20
 #GITHUB_URL = "https://github.com/Moredread"
 TWITTER_USERNAME = "IndustrialRobot"
 DISQUS_SITENAME = "andre-bubel"
+PIWIK_URL = "piwik.nolife.de"
+PIWIK_SITE_ID = "1"
 
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
