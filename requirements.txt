@@ -2,3 +2,4 @@ pelican
 markdown
 pillow
 bs4
+typogrify
