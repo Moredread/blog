@@ -96,7 +96,7 @@ DEFAULT_PAGINATION = 20
 TYPOGRIFY = True
 SUMMARY_MAX_LENGTH = None
 
-#GITHUB_URL = "https://github.com/Moredread"
+GITHUB_URL = "https://github.com/Moredread"
 TWITTER_USERNAME = "IndustrialRobot"
 DISQUS_SITENAME = "andre-bubel"
 PIWIK_URL = "piwik.nolife.de"
