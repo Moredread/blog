@@ -49,15 +49,23 @@ STATIC_PATHS = ['images', 'static']
 
 THEME = "themes/pelican-bootstrap3"
 
+DISPLAY_ARTICLE_INFO_ON_INDEX = True
+SHARIFF = True
+SHARIFF_SERVICES = ["facebook", "googleplus", "twitter"]
+SHARIFF_TWITTER_VIA = True
+
 ARTICLE_URL = 'blog/{date:%Y}/{date:%m}/{date:%d}/{slug}/'
 ARTICLE_SAVE_AS = 'blog/{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
+
+JINJA_EXTENSIONS = ['jinja2.ext.i18n']
 
 PLUGIN_PATHS = ['plugins']
 PLUGINS = ['liquid_tags.img', 'liquid_tags.video',
            'liquid_tags.youtube', 'liquid_tags.vimeo',
            'liquid_tags.include_code',
            #'image_process',
-           'tag_cloud']
+           'tag_cloud',
+           'i18n_subsites']
 
 TAG_CLOUD_STEPS = 4
 TAG_CLOUD_MAX_ITEMS = 20
@@ -91,9 +99,8 @@ CC_LICENSE = "CC-BY-NC-SA"
 #     }
 
 DEFAULT_CATEGORY = "Blog"
-DEFAULT_PAGINATION = 20
+DEFAULT_PAGINATION = 10
 
-TYPOGRIFY = True
 SUMMARY_MAX_LENGTH = None
 
 GITHUB_URL = "https://github.com/Moredread"
@@ -101,6 +108,9 @@ TWITTER_USERNAME = "IndustrialRobot"
 DISQUS_SITENAME = "andre-bubel"
 PIWIK_URL = "piwik.nolife.de"
 PIWIK_SITE_ID = "1"
+
+MATHJAX = True
+TYPOGRIFY = True
 
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True

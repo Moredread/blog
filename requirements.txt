@@ -3,3 +3,4 @@ markdown
 pillow
 bs4
 typogrify
+python-gettext
