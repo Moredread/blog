@@ -48,6 +48,7 @@ DIRECT_TEMPLATES = ['index', 'archives']
 STATIC_PATHS = ['images', 'static']
 
 THEME = "themes/pelican-bootstrap3"
+BOOTSTRAP_THEME = "yeti"
 
 DISPLAY_ARTICLE_INFO_ON_INDEX = True
 SHARIFF = True
