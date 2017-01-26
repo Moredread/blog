@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'André-Patrick Bubel'
 SITENAME = "Moredread's blog"
-SITEURL = ''
+SITEURL = 'http://127.0.0.1:8081'
 
 ARTICLE_URL = '{date:%Y}/{date:%m}/{date:%d}/{slug}/'
 ARTICLE_SAVE_AS = '{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
@@ -65,7 +65,13 @@ PLUGINS = ['liquid_tags.img', 'liquid_tags.video',
            'liquid_tags.include_code',
            #'image_process',
            'tag_cloud',
-           'i18n_subsites']
+           'i18n_subsites',
+           'photos']
+
+PHOTO_LIBRARY = "galleries"
+PHOTO_EXIF_COPYRIGHT = 'CC-BY-NC-SA'
+PHOTO_THUMB = PHOTO_ARTICLE = (760, 506, 80)
+PHOTO_GALLERY = (4000, 4000, 95)
 
 TAG_CLOUD_STEPS = 4
 TAG_CLOUD_MAX_ITEMS = 20

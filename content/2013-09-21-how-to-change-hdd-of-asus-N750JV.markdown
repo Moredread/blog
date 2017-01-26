@@ -5,6 +5,7 @@ date: 2013-09-21 18:08
 comments: true
 slug: how-to-change-hdd-of-asus-N750JV
 tags: english, notebook, howto
+gallery: {photo}notebook
 ---
 
 WARNING: You _will_ void your guarantee. I had to send in the laptop because the keyboard stopped working. Asus declined the guarantee request, because the harddrive was changed and the laptop was opened.
@@ -17,11 +18,11 @@ too, but I haven't checked it. Please leave a comment, if you have one.
 
 You need a size 5 [Torx](http://en.wikipedia.org/wiki/Torx) and a medium sized [Phillips](http://en.wikipedia.org/wiki/List_of_screw_drives#Phillips) screw driver.
 
-{% img {filename}/images/notebook/NB_1_small.jpg %}
+{% img {lightbox}notebook/NB_1.jpg %}
 
 On the backside remove all 14(!) Torx screws. You then can remove the cover carefully.
 
-{% img {filename}/images/notebook/NB_2_small.jpg %}
+{% img {lightbox}notebook/NB_2.jpg %}
 
 The notebook contains two drive bays, one on the left and one on the right.
 Depending on the type of your laptop one or both have already a drive inside.
@@ -37,29 +38,29 @@ using the black strap.
 If the bay already contains a drive, carefully remove the connector by pulling on
 it.
 
-{% img {filename}/images/notebook/NB_3_small.jpg %}
-{% img {filename}/images/notebook/NB_4_small.jpg %}
-{% img {filename}/images/notebook/NB_5_small.jpg %}
+{% img {lightbox}/notebook/NB_3.jpg %}
+{% img {lightbox}/notebook/NB_4.jpg %}
+{% img {lightbox}/notebook/NB_5.jpg %}
 
 If the bay is empty, there is a rubber placeholder on one side. Remove it.
 
-{% img {filename}/images/notebook/NB_6_small.jpg %}
+{% img {lightbox}/notebook/NB_6.jpg %}
 
 Place the new 2.5'' drive in the bay, so that screw holes on the sides line up
 with the holes in the drive. the connector should face to the side, where two
 holes are present in the screw latch.
 
-{% img {filename}/images/notebook/NB_7_small.jpg %}
+{% img {lightbox}/notebook/NB_7.jpg %}
 
 In the packaging of the laptop four screws are taped inside. Take them out and
 screw them into the side of the bay, fixating the hard disk.
 
-{% img {filename}/images/notebook/NB_8_small.jpg %}
+{% img {lightbox}/notebook/NB_8.jpg %}
 
 Connect the hard disk connector to the hard disk and but the bay back in. Align
 the screw holes at the bottom of laptop and put the Phillips screws back in.
 
-{% img {filename}/images/notebook/NB_9_small.jpg %}
+{% img {lightbox}/notebook/NB_9.jpg %}
 
 Make sure you haven't left anything in the laptop that doesn't belong there and
 all cables line up correctly. Esp. the speaker cable can easily be pinched in.
