@@ -51,9 +51,9 @@ THEME = "themes/pelican-bootstrap3"
 BOOTSTRAP_THEME = "yeti"
 
 DISPLAY_ARTICLE_INFO_ON_INDEX = True
-SHARIFF = True
-SHARIFF_SERVICES = ["facebook", "googleplus", "twitter"]
-SHARIFF_TWITTER_VIA = True
+#SHARIFF = True
+#SHARIFF_SERVICES = ["facebook", "googleplus", "twitter"]
+#SHARIFF_TWITTER_VIA = True
 
 ARTICLE_URL = 'blog/{date:%Y}/{date:%m}/{date:%d}/{slug}/'
 ARTICLE_SAVE_AS = 'blog/{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
@@ -110,15 +110,15 @@ CC_LICENSE = "CC-BY-NC-SA"
 #     }
 
 DEFAULT_CATEGORY = "Blog"
-DEFAULT_PAGINATION = 10
+DEFAULT_PAGINATION = 20
 
 SUMMARY_MAX_LENGTH = None
 
-GITHUB_URL = "https://github.com/Moredread"
-TWITTER_USERNAME = "IndustrialRobot"
-DISQUS_SITENAME = "andre-bubel"
-PIWIK_URL = "piwik.nolife.de"
-PIWIK_SITE_ID = "1"
+#GITHUB_URL = "https://github.com/Moredread"
+#TWITTER_USERNAME = "IndustrialRobot"
+#DISQUS_SITENAME = "andre-bubel"
+#PIWIK_URL = "piwik.nolife.de"
+#PIWIK_SITE_ID = "1"
 
 MATHJAX = True
 TYPOGRIFY = True
