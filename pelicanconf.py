@@ -58,7 +58,9 @@ SHARIFF_TWITTER_VIA = True
 ARTICLE_URL = 'blog/{date:%Y}/{date:%m}/{date:%d}/{slug}/'
 ARTICLE_SAVE_AS = 'blog/{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
 
-JINJA_EXTENSIONS = ['jinja2.ext.i18n']
+JINJA_ENVIRONMENT = {
+    'extensions': ['jinja2.ext.i18n']
+}
 
 PLUGIN_PATHS = ['plugins']
 PLUGINS = ['liquid_tags.img', 'liquid_tags.video',
