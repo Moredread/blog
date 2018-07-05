@@ -9,4 +9,13 @@ stdenv.mkDerivation {
     python27Packages.piexif
     python27Packages.typogrify
   ];
+
+    src = ./.;
+
+  buildFlags = "publish";
+
+  installPhase = ''
+    mkdir -p $out
+    cp -r output/* $out
+  '';
 }
