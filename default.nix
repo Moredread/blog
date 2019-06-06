@@ -10,7 +10,9 @@ stdenv.mkDerivation {
     python27Packages.typogrify
   ];
 
-    src = ./.;
+  src = ./.;
+
+  preBuildPhase = "rm -rf output";
 
   buildFlags = "publish";
 
