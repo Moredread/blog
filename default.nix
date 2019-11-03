@@ -4,10 +4,10 @@ stdenv.mkDerivation {
   name = "blog";
   buildInputs = [
     gnumake
-    python27Packages.markdown
-    python27Packages.pelican
-    python27Packages.piexif
-    python27Packages.typogrify
+    python3Packages.markdown
+    python3Packages.pelican
+    python3Packages.piexif
+    python3Packages.typogrify
   ];
 
   src = ./.;
