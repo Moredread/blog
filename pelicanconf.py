@@ -125,3 +125,15 @@ TYPOGRIFY = True
 
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
+
+# Tell Pelican to add files from 'extra' to the output dir
+STATIC_PATHS = [
+    'extra'
+]
+
+# Tell Pelican to change the path to 'static/custom.css' in the output dir
+EXTRA_PATH_METADATA = {
+    'extra/custom.css': {'path': 'static/css/custom.css'}
+}
+
+CUSTOM_CSS = 'static/css/custom.css'
